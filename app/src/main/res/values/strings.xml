@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Homework2part2</string>
+    <string name="app_name2">Просмотр фото</string>
+    <string name="button1">Назад</string>
+    <string name="button2">Вперед</string>
+    <string name="fotoAdress">http://myfile.org/17</string>
+    <string name="fotoAdress2">http://myfile.org/23</string>
+</resources>
